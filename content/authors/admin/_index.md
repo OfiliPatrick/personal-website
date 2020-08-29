@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Engineering Student & Software Engineer
+role: Software Engineer
 
 # Organizations/Affiliations
 organizations:
@@ -24,13 +24,12 @@ interests:
 - Software Engineering
 - Algorithms
 - Finance
-- E-Sports
 
 education:
   courses:
   - course: Bsc in Chemical Engineering
     institution: University Of Lagos
-    year: 2015 - Present
+    year: In View
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -67,4 +66,3 @@ user_groups:
 
 Hey There! I am a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
