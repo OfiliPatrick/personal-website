@@ -27,9 +27,9 @@ date_format = "Jan 2006"
   date_end = "2020-07-01"
   description = """
   
-* Processed and interfaced with stock price data feeds whilst performing robust unit tests by modifying Python scripts in a REPL environment.
+-  Processed and interfaced with stock price data feeds whilst performing robust unit tests by modifying Python scripts in a REPL environment.
  
-* Refined Perspective’s open-source code written in React to enable traders to monitor the performance of 2 stocks through a graph component
+ - Refined Perspective’s open-source code written in React to enable traders to monitor the performance of 2 stocks through a graph component
   """
   
   [[experience]]
