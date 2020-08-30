@@ -27,7 +27,7 @@ date_format = "Jan 2006"
   date_end = "2020-07-01"
   description = """
 
-Activities:
+Core Activities:
 * Processed and interfaced with stock price data feeds whilst performing robust unit tests by modifying Python scripts in a REPL environment.
  
 * Refined Perspective’s open-source code written in React to enable traders to monitor the performance of 2 stocks through a graph component
@@ -42,6 +42,7 @@ Activities:
   date_end = ""
   description = """
   
+  Core Activities:
 * Interacted with a group of software engineers and engaged in one on one sessions aimed at developing interpersonal and problem-solving skills.
 
 * Leveraged data structures and algorithm techniques to solve problems and tasks assigned weekly to me.
@@ -56,6 +57,7 @@ Activities:
   date_end = ""
   description = """
   
+  Core Activities:
 * Drove the usage of Microsoft technologies as an on-campus ambassador to help fellow students develop technical and career skills.
 
 * Partnered with teammates to organize virtual events one of which I demoed and anchored a session on “Integrating Git in Visual Studio Code”.
@@ -71,6 +73,7 @@ Activities:
   date_end = "2019-12-01"
   description = """
   
+  Core Activities:
 * Boosted production output by 81% via wireless sensor networks researched and deployed to slash pipeline vandalism rates.
 * Collaborated with a team of engineers to amplify communication in 2 remote areas of operation through Huawei’s ELTE platform.
   """
