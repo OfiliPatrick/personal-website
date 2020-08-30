@@ -50,6 +50,12 @@ subtitle = ""
   icon_pack = "custom"
   name = "REST API"
   description = ""
+ 
+ [[feature]]
+  icon = "mongo"
+  icon_pack = "custom"
+  name = "MongoDB"
+  description = ""
   
 
 # Uncomment to use emoji icons.
