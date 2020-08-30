@@ -14,29 +14,14 @@ subtitle = ""
 # 
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
-[[feature]]
-  icon = "r-project"
-  icon_pack = "fab"
-  name = "Full-Stack Web Development"
-  description = ""
-  
-[[feature]]
-  icon = "chart-line"
-  icon_pack = "fas"
-  name = "Python"
-  description = ""  
-  
-[[feature]]
-  icon = "camera-retro"
-  icon_pack = "fas"
-  name = "API Development"
-  description = ""
-  
-  [[feature]]
-  icon = "camera-retro"
-  icon_pack = "fas"
-  name = "Algorithms"
-  description = ""
+
+# [[feature]]
+ # icon = "r-project"
+ # icon_pack = "fab" or "fas" sha
+ # name = "Full-Stack Development"
+ # description = ""
+
+
 
 # Uncomment to use emoji icons.
 # [[feature]]
@@ -48,10 +33,35 @@ subtitle = ""
 # Uncomment to use custom SVG icons.
 # Place custom SVG icon in `assets/images/icon-pack/`, creating folders if necessary.
 # Reference the SVG icon name (without `.svg` extension) in the `icon` field.
- [[feature]]
- icon = "API"
- icon_pack = "custom"
- name = "Surfing"
- description = "90%"
 
+[[feature]]
+  icon = "seo"
+  icon_pack = "custom"
+  name = "Web Development"
+  description = ""
+  
+[[feature]]
+  icon = "books"
+  icon_pack = "custom"
+  name = "Python Scripting"
+  description = ""  
+  
+[[feature]]
+  icon = "connection"
+  icon_pack = "custom"
+  name = "Algorithms"
+  description = ""
+  
+ [[feature]]
+ icon = "structure"
+ icon_pack = "custom"
+ name = "Data Structures"
+ description = ""
+
+[[feature]]
+  icon = "API"
+  icon_pack = "custom"
+  name = "REST API"
+  description = ""
+  
 +++
