@@ -45,14 +45,45 @@ date_format = "Jan 2006"
 
 * Leveraged data structures and algorithm techniques to solve problems and tasks assigned weekly to me.
   """
-
-[[experience]]
-  title = "Professor"
-  company = "University X"
+  
+  [[experience]]
+  title = "Microsoft Learn Student Ambassador"
+  company = "Microsoft"
   company_url = ""
   location = ""
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  date_start = "2020-01-01"
+  date_end = ""
+  description = """
+  
+* Drove the usage of Microsoft technologies as an on-campus ambassador to help fellow students develop technical and career skills.
 
+* Partnered with teammates to organize virtual events one of which I demoed and anchored a session on “Integrating Git in Visual Studio Code”.
+
+  """
+ 
+ [[experience]]
+  title = "Corporate Production Intern"
+  company = "Seplat"
+  company_url = ""
+  location = ""
+  date_start = "2019-09-01"
+  date_end = "2019-12-01"
+  description = """
+  
+* Boosted production output by 81% via wireless sensor networks researched and deployed to slash pipeline vandalism rates.
+* Collaborated with a team of engineers to amplify communication in 2 remote areas of operation through Huawei’s ELTE platform.
+  """
+  
+  [[experience]]
+  title = "Team Lead"
+  company = "Developers108"
+  company_url = ""
+  location = ""
+  date_start = "2019-01-01"
+  date_end = ""
+  description = """
+  
+* Co-founded and managed an 8-man team of software developers in a bid to ensure group learning amongst members.
+
+  """
 +++
