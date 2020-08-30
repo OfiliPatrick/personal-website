@@ -21,19 +21,6 @@ subtitle = ""
  # name = "Full-Stack Development"
  # description = ""
 
-
-
-# Uncomment to use emoji icons.
-# [[feature]]
-#  icon = ":smile:"
-#  icon_pack = "emoji"
-#  name = "Emojiness"
-#  description = "100%"  
-
-# Uncomment to use custom SVG icons.
-# Place custom SVG icon in `assets/images/icon-pack/`, creating folders if necessary.
-# Reference the SVG icon name (without `.svg` extension) in the `icon` field.
-
 [[feature]]
   icon = "seo"
   icon_pack = "custom"
@@ -59,9 +46,27 @@ subtitle = ""
  description = ""
 
 [[feature]]
-  icon = "API"
+  icon = "api"
   icon_pack = "custom"
   name = "REST API"
   description = ""
+  
+
+# Uncomment to use emoji icons.
+# [[feature]]
+#  icon = ":smile:"
+#  icon_pack = "emoji"
+#  name = "Emojiness"
+#  description = "100%"  
+
+# Uncomment to use custom SVG icons.
+# Place custom SVG icon in `assets/images/icon-pack/`, creating folders if necessary.
+# Reference the SVG icon name (without `.svg` extension) in the `icon` field.
+
+# [[feature]]
+#  icon = "API"
+#  icon_pack = "custom"
+#  name = "REST API"
+#  description = ""
   
 +++
