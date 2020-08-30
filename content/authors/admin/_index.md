@@ -23,7 +23,7 @@ bio: My research interests include distributed robotics, mobile computing and pr
 interests:
 - Software Engineering
 - Algorithms
-- Finance
+- Open Source
 
 education:
   courses:
@@ -64,5 +64,5 @@ user_groups:
 - Visitors
 ---
 
-Hey There! I am a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hey There! Welcome to my spot on the internet. I am an engineering student at the University Of Lagos with a passion for computer programming and software engineering.I love to build web based software and full stack applications using tools such as Python, React and Express, although I dabble in a bit of data structures and algorithms every now and then. At the moment I am a Student Ambassador for Microsoft Learn. 
 
