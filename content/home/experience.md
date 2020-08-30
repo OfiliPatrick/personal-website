@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
-title = "Experience"
+title = "Experience and Leadership"
 subtitle = ""
 
 # Date format for experience
@@ -17,19 +17,17 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "Software Engineering Intern"
+  company = "JPMorgan Chase & Co."
   company_url = ""
   location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
+  date_start = "2020-07-01"
+  date_end = "2020-07-01"
   description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
+ * Processed and interfaced with stock price data feeds whilst performing robust unit tests by modifying Python scripts in a REPL environment.
+ * Refined Perspective’s open-source code written in React to enable traders to monitor the performance of 2 stocks through a graph component
   """
 
 [[experience]]
