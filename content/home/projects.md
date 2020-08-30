@@ -8,11 +8,6 @@ weight = 45  # Order that this section will appear 65 before.
 title = "Projects"
 subtitle = ""
 
-
-[[portfolio]]
-  title ="ok"
-  
-  
 [content]
   # Page type to display. E.g. project.
   page_type = "project"
@@ -25,7 +20,7 @@ subtitle = ""
   # To remove toolbar, delete/comment all instances of `[[content.filter_button]]` below.
   
   # Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
-  filter_default = 0
+  filter_default = 1
   
   [[content.filter_button]]
     name = "All"
