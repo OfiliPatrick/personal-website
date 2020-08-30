@@ -41,7 +41,7 @@ subtitle = ""
   description = ""
   
 [[feature]]
-  icon = "books"
+  icon = "book"
   icon_pack = "custom"
   name = "Python Scripting"
   description = ""  
