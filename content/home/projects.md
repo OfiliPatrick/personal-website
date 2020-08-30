@@ -8,13 +8,15 @@ weight = 45  # Order that this section will appear 65 before.
 title = "Projects"
 subtitle = ""
 
+
+[[portfolio]]
+  title ="ok"
+  
+  
 [content]
   # Page type to display. E.g. project.
   page_type = "project"
   
-  
-  [[portfolio]]
-  title ="ok"
   
   # Filter toolbar (optional).
   # Add or remove as many filters (`[[content.filter_button]]` instances) as you like.
