@@ -64,5 +64,5 @@ user_groups:
 - Visitors
 ---
 
-Hey There! Welcome to my spot on the internet. I am an engineering student at the University Of Lagos with a passion for computer programming and software engineering.I love to build web based software and full stack applications using tools such as Python, React and Express, although I dabble in a bit of data structures and algorithms every now and then. At the moment I am a Student Ambassador for Microsoft Learn. 
+Hey There! Welcome to my spot on the internet. I am an engineering student at the University Of Lagos with a passion for computer programming and software engineering.I love to build web based software using tools such as Python, React and Express, although I dabble in algorithms every now and then. At the moment I am a Student Ambassador for Microsoft Learn. 
 
