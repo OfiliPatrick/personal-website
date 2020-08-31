@@ -1,6 +1,6 @@
 ---
 title: Face Detection App
-summary: A Web App with the abiltiy to detect faces in a picture.
+summary: A Web App with the abiltiy to detect faces in a picture using Clarifai API.
 tags:
 - Demo
 date: "2016-04-27T00:00:00Z"
