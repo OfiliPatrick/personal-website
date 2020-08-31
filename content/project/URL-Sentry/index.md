@@ -1,6 +1,6 @@
 ---
-title: External Project
-summary: An example of linking directly to an external project website using `external_link`.
+title: URL Sentry
+summary: An express middleware capable of monitoring website and url access.
 tags:
 - Demo
 date: "2016-04-27T00:00:00Z"
