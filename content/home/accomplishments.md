@@ -26,7 +26,7 @@ date_format = "Jan 2006"
   certificate_url = "https://drive.google.com/file/d/1oVwPmSO4kN9UVbcSfjtOj8sNwjlY5teW/view?usp=sharing"
   date_start = "2020-06-01"
   date_end = ""
-  description = "Promoted to the 2nd highest ranking in the Microsoft Learn Student Ambassadors program."
+  description = "Earned a certificate of recognition after being promoted to the 2nd highest ranking in the Microsoft Learn Student Ambassadors program."
 
 [[item]]
   organization = "Hactoberfest 2019"
@@ -46,6 +46,6 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2019-01-01"
   date_end = ""
-  description = "Placed 2nd out of 16 teams during a code sprint that lasted for 5 hours."
+  description = "Participated in the Africa Recriuting Initiative Event and placed 2nd out of 16 teams during a code sprint that lasted for 5 hours."
 
 +++
