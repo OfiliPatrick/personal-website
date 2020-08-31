@@ -1,6 +1,6 @@
 ---
 title: Social Network
-summary: A Social Network Site built with the MERN Stack.
+summary: A Full Stack Social Network Site built with the MERN Stack.
 tags:
 - Demo
 date: "2016-04-27T00:00:00Z"
