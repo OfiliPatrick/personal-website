@@ -20,7 +20,7 @@ date_format = "Jan 2006"
 
 [[item]]
   organization = "Microsoft"
-  organization_url = ""
+  organization_url = "https://studentambassadors.microsoft.com/"
   title = "Beta Milestone"
   url = ""
   certificate_url = "https://drive.google.com/file/d/1oVwPmSO4kN9UVbcSfjtOj8sNwjlY5teW/view?usp=sharing"
@@ -30,17 +30,17 @@ date_format = "Jan 2006"
 
 [[item]]
   organization = "Hactoberfest 2019"
-  organization_url = "https://www.edx.org"
+  organization_url = "https://hacktoberfest.digitalocean.com/"
   title = "Open Source Contributor"
   url = ""
   certificate_url = ""
   date_start = "2019-10-01"
   date_end = ""
-  description = "Contributed to Several Open Source projects during the 2019 Hactoberfest event"
+  description = "Contributed to Several Open Source projects during the 2019 Hactoberfest event."
   
 [[item]]
   organization = "Goldman Sachs ARIE Hackathon 2019"
-  organization_url = "https://www.datacamp.com"
+  organization_url = ""
   title = "2nd Place"
   url = ""
   certificate_url = ""
