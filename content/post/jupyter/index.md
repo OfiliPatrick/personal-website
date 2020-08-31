@@ -1,7 +1,7 @@
 ---
 title: How to Implement LRU Cache Algorithm. 
 subtitle: A tutorial explaining the solution to the LRU Cache Algorithm problem.
-summary: Learn how to blog in Academic using Jupyter notebooks
+summary: A tutorial explaining the solution to the LRU Cache Algorithm problem.
 authors:
 - admin
 tags: []
