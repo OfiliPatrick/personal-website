@@ -1,6 +1,6 @@
 ---
-title: Display Jupyter Notebooks with Academic
-subtitle: Learn how to blog in Academic using Jupyter notebooks
+title: How to Implement LRU Cache Algorithm. 
+subtitle: A tutorial explaining the solution to the LRU Cache Algorithm problem.
 summary: Learn how to blog in Academic using Jupyter notebooks
 authors:
 - admin
