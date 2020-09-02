@@ -1,6 +1,6 @@
 ---
 title: Encryption Tool
-summary: An Express middleware capable of monitoring restricted website and URL access.
+summary: Built as a preinternship challenge.
 tags:
 - Demo
 date: "2016-04-27T00:00:00Z"
