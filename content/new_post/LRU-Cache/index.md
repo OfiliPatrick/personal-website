@@ -1,5 +1,5 @@
 ---
-title: How to Implement LRU Cache
+title: How to Implement LRU Cache.
 summary: A tutorial explaining the solution to the LRU Cache Algorithm problem.
 tags:
 - Demo
