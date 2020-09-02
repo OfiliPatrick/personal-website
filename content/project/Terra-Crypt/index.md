@@ -1,6 +1,6 @@
 ---
-title: Encryption Tool
-summary: Built as an Internship challenge using the Caesar Cipher Algorithm.
+title: URL Sentry
+summary: An Express middleware capable of monitoring restricted website and URL access.
 tags:
 - Demo
 date: "2016-04-27T00:00:00Z"
