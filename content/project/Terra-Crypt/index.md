@@ -1,6 +1,6 @@
 ---
 title: Encryption Tool
-summary: Built as a preinternship challenge.
+summary: An encryption tool built as a preinternship challenge using caeser cipher alogrithm.
 tags:
 - Demo
 date: "2016-04-27T00:00:00Z"
