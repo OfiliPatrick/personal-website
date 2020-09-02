@@ -1,6 +1,6 @@
 ---
 title: Encryption Tool
-summary: An encryption tool built as a pre-internship challenge using the caeser-cipher alogrithm.
+summary: I built this as a pre-internship challenge for Terragon using the caeser-cipher alogrithm.
 tags:
 - Demo
 date: "2016-04-27T00:00:00Z"
