@@ -1,5 +1,5 @@
 ---
-title: TRL Sentry
+title: eRL Sentry
 summary: An Express middleware capable of monitoring restricted website and URL access.
 tags:
 - Demo
