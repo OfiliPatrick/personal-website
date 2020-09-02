@@ -1,5 +1,5 @@
 ---
-title: eRL Sentry
+title: Encryption Tool
 summary: An Express middleware capable of monitoring restricted website and URL access.
 tags:
 - Demo
