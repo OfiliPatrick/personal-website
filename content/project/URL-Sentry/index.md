@@ -1,6 +1,6 @@
 ---
 title: URL Sentry
-summary: An express middleware capable of monitoring restricted website and url access.
+summary: An Express middleware capable of monitoring restricted website and url access.
 tags:
 - Demo
 date: "2016-04-27T00:00:00Z"
