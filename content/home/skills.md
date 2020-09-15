@@ -30,7 +30,7 @@ subtitle = ""
 [[feature]]
   icon = "book"
   icon_pack = "custom"
-  name = "Python Scripting"
+  name = "Python"
   description = ""  
   
 [[feature]]
