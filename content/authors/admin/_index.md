@@ -67,5 +67,5 @@ user_groups:
 - Visitors
 ---
 
-Hello, I am a final year engineering student at the University of Lagos with a passion for computer programming and software engineering. I love building well optimized and scalable software using interesting tools and stacks. A lot of my expertise come from open source contributions, personal projects and hackathons. I also dabble in data structures and algorithms every now and then. At the moment I am a Student Ambassador for Microsoft Learn. 
+Hello, I am an engineering student at the University of Lagos with a passion for computer programming and software engineering. I love building well optimized and scalable software using interesting tools and stacks. A lot of my expertise come from open source contributions, personal projects and hackathons. I also dabble in data structures and algorithms every now and then. At the moment I am a Student Ambassador for Microsoft Learn. 
 
