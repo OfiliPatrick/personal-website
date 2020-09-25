@@ -29,7 +29,7 @@ education:
   courses:
   - course: Bsc in Chemical Engineering
     institution: University Of Lagos
-    year: In View
+    year: ""
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
