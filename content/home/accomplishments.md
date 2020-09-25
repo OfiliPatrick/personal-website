@@ -36,16 +36,16 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2019-10-01"
   date_end = ""
-  description = "Contributed to Several Open Source projects during the 2019 Hactoberfest event."
+  description = "Contributed to several Open Source projects during the 2019 Hactoberfest event."
   
 [[item]]
-  organization = "Goldman Sachs ARIE Hackathon 2019"
+  organization = "Goldman Sachs ARI Hackathon 2019"
   organization_url = ""
   title = "2nd Place"
   url = ""
   certificate_url = ""
   date_start = "2019-01-01"
   date_end = ""
-  description = "Participated in the Africa Recriuting Initiative Event and placed 2nd out of 16 teams during a code sprint that lasted for 5 hours."
+  description = "Participated in the Africa Recriuting Initiative event and placed 2nd out of 16 teams during a code sprint that lasted for 5 hours."
 
 +++
